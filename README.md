@@ -1,3 +1,12 @@
+Nama: Ahmad Aimar Refaldi Ramang
+
+NIM: 2609116056
+
+NIM GENAP
+
+Kelas: B 2026
+
+
 DESKRIPSI SINGKAT
 
 
