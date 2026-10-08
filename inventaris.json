@@ -1,0 +1,27 @@
+[
+    {
+        "nama": "Beras",
+        "stok": "10",
+        "harga": "15000"
+    },
+    {
+        "nama": "Minyak",
+        "stok": "5",
+        "harga": "18000"
+    },
+    {
+        "nama": "3",
+        "stok": 10,
+        "harga": 3
+    },
+    {
+        "nama": "ayam",
+        "stok": "10",
+        "harga": "20000"
+    },
+    {
+        "nama": "kambing",
+        "stok": "12",
+        "harga": "20000"
+    }
+]
